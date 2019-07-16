@@ -1,20 +1,20 @@
-# webpack-starter
+# webpack-starterkit
 
 ### Installation
 
-  npm install
+  > npm install
   
 ### Start Dev Server
   
-  npm run dev
+  > npm run dev
   
 ### Start Build
 
-  npm run build
+  > npm run build
   
 ### Start Deploy Server
 
-  npm start
+  > npm start
   
 ### Support
   * ES6
