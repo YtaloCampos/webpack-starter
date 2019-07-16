@@ -1,0 +1,45 @@
+body {
+    background: #8ED5FA;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 5% 0;
+    letter-spacing: 1px;
+}
+
+.image_webpack {
+    transition: 0.2s ease-in-out;
+}
+
+.image_webpack:hover {
+    opacity: 0.6;
+}
+
+.title_webpack {
+    font-size: 2em;
+    color: #1C78C0;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.small_title {
+    font-size: 1em;
+    color: #1C78C0;
+    font-weight: bold;
+}
+
+.support_items {
+    font-size: 0.8em;
+}
+
+.support_items li {
+    margin: 10px 10px;
+    color: #fff;
+    font-weight: bold;
+}
